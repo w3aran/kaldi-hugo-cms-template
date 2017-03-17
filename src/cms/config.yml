@@ -3,6 +3,7 @@ backend:
   repo: <% GITHUB_REPOSITORY %> # Gulp will replace this with your GitHub repository
   branch: master # Branch to update (master by default)
 
+publish_mode: editorial_workflow
 media_folder: "dist/img" # Folder where user uploaded files should go
 public_folder: "dist" # CMS now knows 'source' is the public folder and will strip this from the path
 
