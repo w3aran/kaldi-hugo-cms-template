@@ -8,3 +8,6 @@ image: /dist/thumbnail.png
 sdfsdffsdfsdfs
 
 dfsf
+
+![test](/dist/thumbnail.png)
+
